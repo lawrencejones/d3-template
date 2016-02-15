@@ -1,2 +1,4 @@
 node_modules
-js/components
+bower_components
+dist
+*.log
