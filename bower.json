@@ -2,9 +2,9 @@
   "name": "d3-template",
   "version": "1.0.0",
   "authors": [
-    "sudodoki <smd.deluzion@gmail.com>"
+    "lawrencejones <lawrjone@gmail.com>"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "private": true,
   "ignore": [
     "**/.*",

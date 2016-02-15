@@ -9,8 +9,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "private": true,
-  "author": "sudodoki <smd.deluzion@gmail.com>",
-  "license": "ISC",
+  "author": "lawrencejones <lawrjone@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "^3.8.10",
     "gulp-webserver": "^0.8.8"
